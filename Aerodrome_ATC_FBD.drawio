@@ -50,12 +50,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iDu25y5nmb2ikl4JObiz" name="A-1">
-    <mxGraphModel dx="2377" dy="1305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1901" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KcJAImw3coBbb5JSBHg4-1" value="" style="group;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1168" y="250" width="540" height="290" as="geometry" />
+          <mxGeometry x="1060" y="410" width="540" height="290" as="geometry" />
         </mxCell>
         <mxCell id="KcJAImw3coBbb5JSBHg4-2" value="" style="group" vertex="1" connectable="0" parent="KcJAImw3coBbb5JSBHg4-1">
           <mxGeometry x="110" width="430" height="290" as="geometry" />
@@ -138,11 +138,11 @@
         </mxCell>
         <mxCell id="KcJAImw3coBbb5JSBHg4-27" value="Flight Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;fontSize=11;rounded=0;fontFamily=Helvetica;labelBackgroundColor=default;" vertex="1" connectable="0" parent="KcJAImw3coBbb5JSBHg4-26">
           <mxGeometry x="0.0092" y="-1" relative="1" as="geometry">
-            <mxPoint x="-5" y="4" as="offset" />
+            <mxPoint x="48" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KcJAImw3coBbb5JSBHg4-28" value="" style="group;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="710" y="60" width="540" height="290" as="geometry" />
+          <mxGeometry x="1060" y="60" width="540" height="290" as="geometry" />
         </mxCell>
         <mxCell id="KcJAImw3coBbb5JSBHg4-29" value="" style="group" vertex="1" connectable="0" parent="KcJAImw3coBbb5JSBHg4-28">
           <mxGeometry x="110" width="430" height="290" as="geometry" />
@@ -215,7 +215,7 @@
           <mxGeometry x="270" y="117" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KcJAImw3coBbb5JSBHg4-49" value="Approach/departure messages from external units" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KcJAImw3coBbb5JSBHg4-42">
-          <mxGeometry x="-117" y="75" width="210" height="47" as="geometry" />
+          <mxGeometry x="-117" y="75" width="167" height="47" as="geometry" />
         </mxCell>
         <mxCell id="KcJAImw3coBbb5JSBHg4-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#006658;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;fillColor=#21C0A5;" edge="1" parent="KcJAImw3coBbb5JSBHg4-41" source="KcJAImw3coBbb5JSBHg4-43">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -232,6 +232,10 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="735" as="sourcePoint" />
             <mxPoint x="1388" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="590" />
+              <mxPoint x="840" y="940" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KcJAImw3coBbb5JSBHg4-53" value="Flight Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;fontSize=11;rounded=0;fontFamily=Helvetica;labelBackgroundColor=default;" vertex="1" connectable="0" parent="KcJAImw3coBbb5JSBHg4-52">
@@ -293,7 +297,36 @@
         </mxCell>
         <mxCell id="etPkwMSOkK_ckMGv--gX-2" value="Updated Flight Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#006658;fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;fillColor=#21C0A5;" vertex="1" connectable="0" parent="etPkwMSOkK_ckMGv--gX-1">
           <mxGeometry x="0.3843" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-12" y="150" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="etPkwMSOkK_ckMGv--gX-3" value="" style="group;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="100" y="70" width="540" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="etPkwMSOkK_ckMGv--gX-4" value="" style="group" vertex="1" connectable="0" parent="etPkwMSOkK_ckMGv--gX-3">
+          <mxGeometry x="110" width="430" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="etPkwMSOkK_ckMGv--gX-5" value="Aerodrome Tactical Flow Management&lt;br&gt;(GF-04-10)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="etPkwMSOkK_ckMGv--gX-4">
+          <mxGeometry x="100" y="80" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="etPkwMSOkK_ckMGv--gX-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" edge="1" parent="etPkwMSOkK_ckMGv--gX-4" source="etPkwMSOkK_ckMGv--gX-7" target="etPkwMSOkK_ckMGv--gX-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="etPkwMSOkK_ckMGv--gX-7" value="Flow Management system" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="etPkwMSOkK_ckMGv--gX-4">
+          <mxGeometry x="80" y="230" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="etPkwMSOkK_ckMGv--gX-8" value="Flow management procedures&lt;br&gt;Local sequencing rules" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="etPkwMSOkK_ckMGv--gX-4">
+          <mxGeometry x="75" y="-30" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="etPkwMSOkK_ckMGv--gX-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006658;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;endArrow=classic;fillColor=#21C0A5;" edge="1" parent="etPkwMSOkK_ckMGv--gX-4" source="etPkwMSOkK_ckMGv--gX-8" target="etPkwMSOkK_ckMGv--gX-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="etPkwMSOkK_ckMGv--gX-11" value="Arrival/Departure Schedules&lt;br&gt;Approach Data&lt;br&gt;Runway availability" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="etPkwMSOkK_ckMGv--gX-4">
+          <mxGeometry x="-100" y="70" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="etPkwMSOkK_ckMGv--gX-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" edge="1" parent="etPkwMSOkK_ckMGv--gX-3" target="etPkwMSOkK_ckMGv--gX-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="120" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
