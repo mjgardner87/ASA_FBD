@@ -93,7 +93,7 @@
           <mxGeometry y="70" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KcJAImw3coBbb5JSBHg4-15" value="" style="group;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="440" y="450" width="540" height="290" as="geometry" />
+          <mxGeometry x="460" y="450" width="540" height="290" as="geometry" />
         </mxCell>
         <mxCell id="KcJAImw3coBbb5JSBHg4-16" value="" style="group" vertex="1" connectable="0" parent="KcJAImw3coBbb5JSBHg4-15">
           <mxGeometry x="110" width="430" height="290" as="geometry" />
@@ -128,7 +128,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KcJAImw3coBbb5JSBHg4-23" value="Flight Plans&lt;br&gt;Approach / Departure information from external approach units" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KcJAImw3coBbb5JSBHg4-15">
-          <mxGeometry y="50" width="210" height="77" as="geometry" />
+          <mxGeometry x="-40" y="50" width="210" height="77" as="geometry" />
         </mxCell>
         <mxCell id="KcJAImw3coBbb5JSBHg4-26" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="KcJAImw3coBbb5JSBHg4-17" target="KcJAImw3coBbb5JSBHg4-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -312,8 +312,8 @@
         <mxCell id="etPkwMSOkK_ckMGv--gX-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" edge="1" parent="etPkwMSOkK_ckMGv--gX-4" source="etPkwMSOkK_ckMGv--gX-7" target="etPkwMSOkK_ckMGv--gX-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="etPkwMSOkK_ckMGv--gX-7" value="Flow Management system" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="etPkwMSOkK_ckMGv--gX-4">
-          <mxGeometry x="80" y="230" width="200" height="60" as="geometry" />
+        <mxCell id="etPkwMSOkK_ckMGv--gX-7" value="Flow Management system&lt;div&gt;Controller Workstation&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="etPkwMSOkK_ckMGv--gX-4">
+          <mxGeometry x="80" y="230" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="etPkwMSOkK_ckMGv--gX-8" value="Flow management procedures&lt;br&gt;Local sequencing rules" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="etPkwMSOkK_ckMGv--gX-4">
           <mxGeometry x="75" y="-30" width="210" height="50" as="geometry" />
