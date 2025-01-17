@@ -50,36 +50,33 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iDu25y5nmb2ikl4JObiz" name="A-1">
-    <mxGraphModel dx="1426" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2377" dy="1305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KcJAImw3coBbb5JSBHg4-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="90" y="100" width="540" height="260" as="geometry" />
+          <mxGeometry x="1168" y="250" width="540" height="290" as="geometry" />
         </mxCell>
         <mxCell id="KcJAImw3coBbb5JSBHg4-2" value="" style="group" vertex="1" connectable="0" parent="KcJAImw3coBbb5JSBHg4-1">
-          <mxGeometry x="110" width="430" height="260" as="geometry" />
+          <mxGeometry x="110" width="430" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="KcJAImw3coBbb5JSBHg4-3" value="&amp;nbsp;Provide Aerodrome A/G Control - Voice Comms&lt;div&gt;(GF-04-01)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KcJAImw3coBbb5JSBHg4-2">
+        <mxCell id="KcJAImw3coBbb5JSBHg4-3" value="&amp;nbsp;Provide Aerodrome A/G Control - Voice Communications&lt;div&gt;(GF-04-01)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KcJAImw3coBbb5JSBHg4-2">
           <mxGeometry x="100" y="80" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KcJAImw3coBbb5JSBHg4-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" edge="1" parent="KcJAImw3coBbb5JSBHg4-2" source="KcJAImw3coBbb5JSBHg4-5" target="KcJAImw3coBbb5JSBHg4-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KcJAImw3coBbb5JSBHg4-5" value="HF/VHF Radios, controller working positions, trained ATC staff" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KcJAImw3coBbb5JSBHg4-2">
-          <mxGeometry x="80" y="230" width="200" height="30" as="geometry" />
+        <mxCell id="KcJAImw3coBbb5JSBHg4-5" value="A/G radio systems and controller headsets&lt;br&gt;Controller workstations&lt;br&gt;Trained ATC personnel" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KcJAImw3coBbb5JSBHg4-2">
+          <mxGeometry x="80" y="230" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KcJAImw3coBbb5JSBHg4-6" value="Radio Procedures, Frequency Assignments" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KcJAImw3coBbb5JSBHg4-2">
+        <mxCell id="KcJAImw3coBbb5JSBHg4-6" value="Local Radio Procedures&lt;br&gt;Frequency Assignments&lt;br&gt;Safety Regulations" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KcJAImw3coBbb5JSBHg4-2">
           <mxGeometry x="90" y="-30" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KcJAImw3coBbb5JSBHg4-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KcJAImw3coBbb5JSBHg4-2" source="KcJAImw3coBbb5JSBHg4-6" target="KcJAImw3coBbb5JSBHg4-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KcJAImw3coBbb5JSBHg4-8" value="Clearance and Instructions to Aircraft, Alerts, Updated Flight Data, Log Records etc" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KcJAImw3coBbb5JSBHg4-2">
+        <mxCell id="KcJAImw3coBbb5JSBHg4-8" value="Voice instructions and clearance to aircraft&lt;br&gt;Readbacks and confirmation&lt;br&gt;Voice Communication Logs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KcJAImw3coBbb5JSBHg4-2">
           <mxGeometry x="270" y="70" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="KcJAImw3coBbb5JSBHg4-9" value="Voice channel data, request for comm from pilots" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KcJAImw3coBbb5JSBHg4-2">
-          <mxGeometry x="-90" y="77" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KcJAImw3coBbb5JSBHg4-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="KcJAImw3coBbb5JSBHg4-1" source="KcJAImw3coBbb5JSBHg4-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -91,6 +88,213 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="80" y="120" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-9" value="Pilot Requests (calls from aircraft)&lt;br&gt;Meteorological updates (as needed)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KcJAImw3coBbb5JSBHg4-1">
+          <mxGeometry y="70" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="260" y="600" width="540" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-16" value="" style="group" vertex="1" connectable="0" parent="KcJAImw3coBbb5JSBHg4-15">
+          <mxGeometry x="110" width="430" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-17" value="Manage Aerodrome Flight Data&lt;br&gt;(GF-04-06)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KcJAImw3coBbb5JSBHg4-16">
+          <mxGeometry x="100" y="80" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" edge="1" parent="KcJAImw3coBbb5JSBHg4-16" source="KcJAImw3coBbb5JSBHg4-19" target="KcJAImw3coBbb5JSBHg4-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-19" value="Flight Data Processing System&lt;div&gt;Controller Displays&lt;/div&gt;&lt;div&gt;Personnel updating and cross-checking data&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KcJAImw3coBbb5JSBHg4-16">
+          <mxGeometry x="80" y="230" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-20" value="Flight data handling procedures&lt;br&gt;Local SOPs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KcJAImw3coBbb5JSBHg4-16">
+          <mxGeometry x="90" y="-30" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KcJAImw3coBbb5JSBHg4-16" source="KcJAImw3coBbb5JSBHg4-20" target="KcJAImw3coBbb5JSBHg4-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-22" value="Updated Flight strips for controllers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KcJAImw3coBbb5JSBHg4-16">
+          <mxGeometry x="270" y="117" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="KcJAImw3coBbb5JSBHg4-15" source="KcJAImw3coBbb5JSBHg4-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="280" as="sourcePoint" />
+            <mxPoint x="540" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" edge="1" parent="KcJAImw3coBbb5JSBHg4-15" target="KcJAImw3coBbb5JSBHg4-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-23" value="Flight Plans&lt;br&gt;Approach / Departure information from external approach units" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KcJAImw3coBbb5JSBHg4-15">
+          <mxGeometry y="50" width="210" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-26" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="KcJAImw3coBbb5JSBHg4-17" target="KcJAImw3coBbb5JSBHg4-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="710" as="sourcePoint" />
+            <mxPoint x="370" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-27" value="Flight Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;fontSize=14;" vertex="1" connectable="0" parent="KcJAImw3coBbb5JSBHg4-26">
+          <mxGeometry x="0.0092" y="-1" relative="1" as="geometry">
+            <mxPoint x="-68" y="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-28" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="620" y="80" width="540" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-29" value="" style="group" vertex="1" connectable="0" parent="KcJAImw3coBbb5JSBHg4-28">
+          <mxGeometry x="110" width="430" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-30" value="&amp;nbsp;Provide Aerodrome G/G Control - Voice Communications&lt;div&gt;(GF-04-02)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KcJAImw3coBbb5JSBHg4-29">
+          <mxGeometry x="100" y="80" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" edge="1" parent="KcJAImw3coBbb5JSBHg4-29" source="KcJAImw3coBbb5JSBHg4-32" target="KcJAImw3coBbb5JSBHg4-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-32" value="G/G radio or phone lines&lt;br&gt;Inter-facility network&lt;br&gt;Controller workstations&lt;br&gt;Trained ATC personnel" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KcJAImw3coBbb5JSBHg4-29">
+          <mxGeometry x="80" y="230" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-33" value="Inter-facility coordination procedures&lt;br&gt;Standard phraseology and safety rules" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KcJAImw3coBbb5JSBHg4-29">
+          <mxGeometry x="76" y="-30" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KcJAImw3coBbb5JSBHg4-29" source="KcJAImw3coBbb5JSBHg4-33" target="KcJAImw3coBbb5JSBHg4-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-35" value="Voice instructions/updates to ground operators or other ATC Facilities&lt;br&gt;Voice Communication Logs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KcJAImw3coBbb5JSBHg4-29">
+          <mxGeometry x="270" y="70" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="KcJAImw3coBbb5JSBHg4-28" source="KcJAImw3coBbb5JSBHg4-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="280" as="sourcePoint" />
+            <mxPoint x="540" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" edge="1" parent="KcJAImw3coBbb5JSBHg4-28" target="KcJAImw3coBbb5JSBHg4-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-36" value="Coordination requests from other ATC units (Approach, Tower, Ground Ops)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KcJAImw3coBbb5JSBHg4-28">
+          <mxGeometry x="-10" y="70" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-39" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="KcJAImw3coBbb5JSBHg4-17" target="KcJAImw3coBbb5JSBHg4-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="735" as="sourcePoint" />
+            <mxPoint x="1190" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-40" value="Flight Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;fontSize=14;" vertex="1" connectable="0" parent="KcJAImw3coBbb5JSBHg4-39">
+          <mxGeometry x="0.0092" y="-1" relative="1" as="geometry">
+            <mxPoint x="-68" y="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-41" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="620" y="840" width="540" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-42" value="" style="group" vertex="1" connectable="0" parent="KcJAImw3coBbb5JSBHg4-41">
+          <mxGeometry x="110" width="430" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-43" value="Provide Aerodrome Control Data Communications&lt;br&gt;(GF-04-03)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KcJAImw3coBbb5JSBHg4-42">
+          <mxGeometry x="100" y="80" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" edge="1" parent="KcJAImw3coBbb5JSBHg4-42" source="KcJAImw3coBbb5JSBHg4-45" target="KcJAImw3coBbb5JSBHg4-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-45" value="Data communication system&lt;br&gt;Controller workstations&lt;br&gt;Software" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KcJAImw3coBbb5JSBHg4-42">
+          <mxGeometry x="80" y="230" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-46" value="Data communication standards&lt;br&gt;Local Procedures" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KcJAImw3coBbb5JSBHg4-42">
+          <mxGeometry x="90" y="-30" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KcJAImw3coBbb5JSBHg4-42" source="KcJAImw3coBbb5JSBHg4-46" target="KcJAImw3coBbb5JSBHg4-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-48" value="Digital messages to aircraft or other facilities" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KcJAImw3coBbb5JSBHg4-42">
+          <mxGeometry x="270" y="117" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-49" value="Approach/departure messages from external units" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KcJAImw3coBbb5JSBHg4-42">
+          <mxGeometry x="-117" y="75" width="210" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="KcJAImw3coBbb5JSBHg4-41" source="KcJAImw3coBbb5JSBHg4-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="280" as="sourcePoint" />
+            <mxPoint x="540" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" edge="1" parent="KcJAImw3coBbb5JSBHg4-41" target="KcJAImw3coBbb5JSBHg4-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-52" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="KcJAImw3coBbb5JSBHg4-17" target="KcJAImw3coBbb5JSBHg4-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="735" as="sourcePoint" />
+            <mxPoint x="1388" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-53" value="Flight Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;fontSize=14;" vertex="1" connectable="0" parent="KcJAImw3coBbb5JSBHg4-52">
+          <mxGeometry x="0.0092" y="-1" relative="1" as="geometry">
+            <mxPoint x="-10" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-54" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="KcJAImw3coBbb5JSBHg4-43" target="KcJAImw3coBbb5JSBHg4-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="900" as="sourcePoint" />
+            <mxPoint x="340" y="770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1050" y="1090" />
+              <mxPoint x="910" y="1180" />
+              <mxPoint x="640" y="1120" />
+              <mxPoint x="480" y="990" />
+              <mxPoint x="410" y="910" />
+              <mxPoint x="370" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-55" value="Updated Flight Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;fontSize=14;" vertex="1" connectable="0" parent="KcJAImw3coBbb5JSBHg4-54">
+          <mxGeometry x="0.177" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-56" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="50" y="180" width="540" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-57" value="" style="group" vertex="1" connectable="0" parent="KcJAImw3coBbb5JSBHg4-56">
+          <mxGeometry x="110" width="430" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-58" value="Manage Aerodrome Air Surveillance Data&lt;br&gt;(GF-04-04)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KcJAImw3coBbb5JSBHg4-57">
+          <mxGeometry x="100" y="80" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" edge="1" parent="KcJAImw3coBbb5JSBHg4-57" source="KcJAImw3coBbb5JSBHg4-60" target="KcJAImw3coBbb5JSBHg4-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-60" value="G/G radio or phone lines&lt;br&gt;Inter-facility network&lt;br&gt;Controller workstations&lt;br&gt;Trained ATC personnel" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KcJAImw3coBbb5JSBHg4-57">
+          <mxGeometry x="80" y="230" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-61" value="Inter-facility coordination procedures&lt;br&gt;Standard phraseology and safety rules" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KcJAImw3coBbb5JSBHg4-57">
+          <mxGeometry x="76" y="-30" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KcJAImw3coBbb5JSBHg4-57" source="KcJAImw3coBbb5JSBHg4-61" target="KcJAImw3coBbb5JSBHg4-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-63" value="Voice instructions/updates to ground operators or other ATC Facilities&lt;br&gt;Voice Communication Logs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KcJAImw3coBbb5JSBHg4-57">
+          <mxGeometry x="270" y="70" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="KcJAImw3coBbb5JSBHg4-56" source="KcJAImw3coBbb5JSBHg4-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="280" as="sourcePoint" />
+            <mxPoint x="540" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" edge="1" parent="KcJAImw3coBbb5JSBHg4-56" target="KcJAImw3coBbb5JSBHg4-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KcJAImw3coBbb5JSBHg4-66" value="Coordination requests from other ATC units (Approach, Tower, Ground Ops)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KcJAImw3coBbb5JSBHg4-56">
+          <mxGeometry x="-10" y="70" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
