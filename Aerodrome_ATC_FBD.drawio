@@ -5,12 +5,12 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bT9LUiyym5RduR45nTak-15" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="60" y="70" width="540" height="290" as="geometry" />
+          <mxGeometry x="30" y="110" width="540" height="290" as="geometry" />
         </mxCell>
         <mxCell id="bT9LUiyym5RduR45nTak-1" value="" style="group" vertex="1" connectable="0" parent="bT9LUiyym5RduR45nTak-15">
           <mxGeometry x="110" width="430" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="bT9LUiyym5RduR45nTak-2" value="&amp;nbsp;Provide and manage ATC services including Voice/data comunications, surveillance, flight data etc&lt;div&gt;&lt;b&gt;(A-0)&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bT9LUiyym5RduR45nTak-1">
+        <mxCell id="bT9LUiyym5RduR45nTak-2" value="&amp;nbsp;Provide and manage ATC services including Voice/data comunications, surveillance, flight data etc&lt;div&gt;&lt;b&gt;(GF-04)&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bT9LUiyym5RduR45nTak-1">
           <mxGeometry x="100" y="80" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bT9LUiyym5RduR45nTak-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bT9LUiyym5RduR45nTak-1" source="bT9LUiyym5RduR45nTak-5" target="bT9LUiyym5RduR45nTak-2">
@@ -42,6 +42,9 @@
             <mxPoint x="310" y="280" as="sourcePoint" />
             <mxPoint x="540" y="120" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bT9LUiyym5RduR45nTak-24" value="GF-04 Aerodrome Air Traffic Control" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
