@@ -813,12 +813,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4NyFBETL1aVBaeUrddLd" name="DAS A-1">
-    <mxGraphModel dx="1501" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="5640" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Hfwwka4k-Ry6hG92FUAx-1" value="" style="group;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="110.00000000000045" y="190" width="659.9999999999995" height="290" as="geometry" />
+          <mxGeometry x="16.000000000000455" y="200" width="659.9999999999995" height="290" as="geometry" />
         </mxCell>
         <mxCell id="Hfwwka4k-Ry6hG92FUAx-2" value="" style="group" vertex="1" connectable="0" parent="Hfwwka4k-Ry6hG92FUAx-1">
           <mxGeometry x="110" width="549.9999999999995" height="290" as="geometry" />
@@ -847,7 +847,7 @@
           <mxGeometry x="-40" y="50" width="210" height="77" as="geometry" />
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-1" value="" style="group;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="510.00000000000045" y="190" width="590" height="290" as="geometry" />
+          <mxGeometry x="419.00000000000045" y="198" width="590" height="290" as="geometry" />
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-2" value="" style="group" vertex="1" connectable="0" parent="ws5PbmoUy5AxE128pXAb-1">
           <mxGeometry x="110" width="480" height="290" as="geometry" />
@@ -892,10 +892,11 @@
             <mxPoint x="750" y="370" as="sourcePoint" />
             <mxPoint x="800" y="320" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="920" y="290" />
+              <mxPoint x="920" y="298" />
               <mxPoint x="920" y="100" />
-              <mxPoint x="280" y="100" />
-              <mxPoint x="280" y="290" />
+              <mxPoint x="160" y="100" />
+              <mxPoint x="160" y="190" />
+              <mxPoint x="160" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -905,7 +906,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-17" value="" style="group;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1080.0000000000005" y="240" width="590" height="290" as="geometry" />
+          <mxGeometry x="1009.0000000000005" y="200" width="590" height="290" as="geometry" />
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-18" value="" style="group" vertex="1" connectable="0" parent="ws5PbmoUy5AxE128pXAb-17">
           <mxGeometry x="110" width="480" height="290" as="geometry" />
@@ -926,51 +927,50 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-29" value="Environmental Conditions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-18">
-          <mxGeometry x="-79" y="101" width="180" height="23.5" as="geometry" />
+          <mxGeometry x="-48" y="96" width="151" height="23.5" as="geometry" />
         </mxCell>
-        <mxCell id="ws5PbmoUy5AxE128pXAb-30" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#006658;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;fillColor=#21C0A5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ws5PbmoUy5AxE128pXAb-18" source="ws5PbmoUy5AxE128pXAb-29" target="ws5PbmoUy5AxE128pXAb-19">
+        <mxCell id="ws5PbmoUy5AxE128pXAb-30" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#006658;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;fillColor=#21C0A5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ws5PbmoUy5AxE128pXAb-18" target="ws5PbmoUy5AxE128pXAb-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="89.99999999999955" y="120" as="sourcePoint" />
+            <mxPoint x="10.999999999999545" y="120" as="sourcePoint" />
             <mxPoint x="-580.0000000000005" y="220" as="targetPoint" />
             <Array as="points">
               <mxPoint x="11" y="120" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hfwwka4k-Ry6hG92FUAx-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;strokeColor=#006658;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;fillColor=#21C0A5;" edge="1" parent="1" source="Hfwwka4k-Ry6hG92FUAx-3">
+        <mxCell id="Hfwwka4k-Ry6hG92FUAx-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;strokeColor=#006658;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;fillColor=#21C0A5;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hfwwka4k-Ry6hG92FUAx-3" target="ws5PbmoUy5AxE128pXAb-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420.00000000000045" y="470" as="sourcePoint" />
             <mxPoint x="1290" y="380" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="660" y="330" />
-              <mxPoint x="660" y="510" />
-              <mxPoint x="1220" y="510" />
-              <mxPoint x="1220" y="380" />
+              <mxPoint x="520" y="340" />
+              <mxPoint x="520" y="510" />
+              <mxPoint x="1110" y="510" />
+              <mxPoint x="1110" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-32" value="Equipment Status" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;" vertex="1" connectable="0" parent="Hfwwka4k-Ry6hG92FUAx-9">
           <mxGeometry x="-0.2394" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="378" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ws5PbmoUy5AxE128pXAb-33" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#006658;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;fillColor=#21C0A5;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="ws5PbmoUy5AxE128pXAb-3">
+        <mxCell id="ws5PbmoUy5AxE128pXAb-33" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#006658;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;fillColor=#21C0A5;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="ws5PbmoUy5AxE128pXAb-3" target="ws5PbmoUy5AxE128pXAb-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1010" y="340" as="sourcePoint" />
             <mxPoint x="1290" y="380" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1050" y="330" />
-              <mxPoint x="1050" y="380" />
+              <mxPoint x="789" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-34" value="Equipment Status" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;" vertex="1" connectable="0" parent="ws5PbmoUy5AxE128pXAb-33">
           <mxGeometry x="-0.1492" y="3" relative="1" as="geometry">
-            <mxPoint y="-3" as="offset" />
+            <mxPoint x="79" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-51" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="70.00000000000045" y="560" width="532" height="232" as="geometry" />
+          <mxGeometry x="80.00000000000045" y="650" width="532" height="232" as="geometry" />
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-50" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#006658;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;fillColor=#21C0A5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ws5PbmoUy5AxE128pXAb-51" target="ws5PbmoUy5AxE128pXAb-37">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1006,7 +1006,7 @@
           <mxGeometry x="312" y="90" width="118" height="25" as="geometry" />
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-52" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="110.00000000000045" y="930" width="532" height="232" as="geometry" />
+          <mxGeometry x="1310.0000000000005" y="1080" width="532" height="232" as="geometry" />
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-53" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#006658;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;fillColor=#21C0A5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ws5PbmoUy5AxE128pXAb-52" target="ws5PbmoUy5AxE128pXAb-56">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1042,7 +1042,7 @@
           <mxGeometry x="312" y="90" width="218" height="25" as="geometry" />
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-62" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="110.00000000000045" y="1210" width="532" height="232" as="geometry" />
+          <mxGeometry x="1310.0000000000005" y="1380" width="532" height="232" as="geometry" />
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-63" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#006658;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;fillColor=#21C0A5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ws5PbmoUy5AxE128pXAb-62" target="ws5PbmoUy5AxE128pXAb-66">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1075,10 +1075,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-71" value="&lt;div&gt;Established G/G voice communications&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-62">
-          <mxGeometry x="314" y="97" width="218" height="25" as="geometry" />
+          <mxGeometry x="314" y="122" width="218" height="25" as="geometry" />
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-72" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1960.0000000000005" y="900" width="532" height="232" as="geometry" />
+          <mxGeometry x="1990.0000000000005" y="900" width="550" height="232" as="geometry" />
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-73" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#006658;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;fillColor=#21C0A5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ws5PbmoUy5AxE128pXAb-72" target="ws5PbmoUy5AxE128pXAb-76">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1092,8 +1092,8 @@
             <mxPoint x="389.99999999999955" y="122" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ws5PbmoUy5AxE128pXAb-75" value="Audio from pilots&lt;div&gt;Frequency requests&lt;/div&gt;&lt;div&gt;Flight data from external systems&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-72">
-          <mxGeometry x="-60" y="70" width="200" height="52" as="geometry" />
+        <mxCell id="ws5PbmoUy5AxE128pXAb-75" value="&lt;div&gt;Video feeds from VRS &lt;b&gt;(VRS 1.2)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Light gun logs &lt;b&gt;(VRS 1.4)&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-72">
+          <mxGeometry x="-60" y="110" width="200" height="22" as="geometry" />
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-76" value="Record and Retain Operational Data&lt;br&gt;(AAS 1.5)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-72">
           <mxGeometry x="152" y="82" width="160" height="80" as="geometry" />
@@ -1101,17 +1101,17 @@
         <mxCell id="ws5PbmoUy5AxE128pXAb-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" edge="1" parent="ws5PbmoUy5AxE128pXAb-72" source="ws5PbmoUy5AxE128pXAb-78" target="ws5PbmoUy5AxE128pXAb-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ws5PbmoUy5AxE128pXAb-78" value="VCS switching hardware / software&lt;div&gt;Headsets&lt;/div&gt;&lt;div&gt;Radio gateways&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-72">
+        <mxCell id="ws5PbmoUy5AxE128pXAb-78" value="Hardware dedicated for logging&lt;div&gt;Storage Media&lt;/div&gt;&lt;div&gt;Replay Software&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-72">
           <mxGeometry x="132" y="197" width="200" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="ws5PbmoUy5AxE128pXAb-79" value="Priority rules&lt;div&gt;Radio phraseology&lt;/div&gt;&lt;div&gt;Local SOPs for Communications&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-72">
-          <mxGeometry x="142" width="180" height="50" as="geometry" />
+        <mxCell id="ws5PbmoUy5AxE128pXAb-79" value="Retention Policies&lt;div&gt;Access control / User Permissions&lt;/div&gt;&lt;div&gt;Regulatory Requirements for Data Logging&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-72">
+          <mxGeometry x="109" width="248" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006658;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;endArrow=classic;fillColor=#21C0A5;" edge="1" parent="ws5PbmoUy5AxE128pXAb-72" source="ws5PbmoUy5AxE128pXAb-79" target="ws5PbmoUy5AxE128pXAb-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ws5PbmoUy5AxE128pXAb-81" value="Voice channel to pilot&lt;div&gt;Real time communication status to ATC&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-72">
-          <mxGeometry x="312" y="90" width="218" height="25" as="geometry" />
+        <mxCell id="ws5PbmoUy5AxE128pXAb-81" value="Archived Recordings&lt;div&gt;Playback for supervisors / investigators etc&lt;/div&gt;&lt;div&gt;Audit Logs&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-72">
+          <mxGeometry x="312" y="70" width="238" height="45" as="geometry" />
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-83" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1310.0000000000005" y="780" width="532" height="232" as="geometry" />
@@ -1150,7 +1150,7 @@
           <mxGeometry x="308" y="84" width="218" height="25" as="geometry" />
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-93" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="620.0000000000005" y="570" width="532" height="232" as="geometry" />
+          <mxGeometry x="850.0000000000005" y="740" width="532" height="232" as="geometry" />
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-94" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#006658;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;fillColor=#21C0A5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ws5PbmoUy5AxE128pXAb-93" target="ws5PbmoUy5AxE128pXAb-97">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1165,7 +1165,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-96" value="Flight Plans&lt;div&gt;Controller inputs/updates&lt;/div&gt;&lt;div&gt;Operational Constraints (schedules / departure slots)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-93">
-          <mxGeometry x="-56" y="60" width="200" height="69" as="geometry" />
+          <mxGeometry x="-57" y="55" width="200" height="69" as="geometry" />
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-97" value="Manage Flight Data&lt;div&gt;(AAS 1.1)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-93">
           <mxGeometry x="152" y="82" width="160" height="80" as="geometry" />
@@ -1183,7 +1183,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-102" value="Updated Flight Status&lt;div&gt;Electronic Flight data strips (or equivalent) for HMI&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-93">
-          <mxGeometry x="300" y="82" width="218" height="25" as="geometry" />
+          <mxGeometry x="340" y="82" width="178" height="25" as="geometry" />
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-103" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1660.0000000000005" y="217" width="532" height="232" as="geometry" />
@@ -1233,7 +1233,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-114" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2100.0000000000005" y="410" width="532" height="232" as="geometry" />
+          <mxGeometry x="2110.0000000000005" y="410" width="532" height="260" as="geometry" />
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-115" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#006658;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;fillColor=#21C0A5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ws5PbmoUy5AxE128pXAb-114" target="ws5PbmoUy5AxE128pXAb-118">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1248,7 +1248,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-117" value="&lt;div&gt;Current Airfield Status&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-114">
-          <mxGeometry x="-53" y="116" width="200" height="30" as="geometry" />
+          <mxGeometry y="116" width="147" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-118" value="Manage Airfield Systems&lt;div&gt;(AAS 1.4)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-114">
           <mxGeometry x="152" y="82" width="160" height="80" as="geometry" />
@@ -1256,17 +1256,17 @@
         <mxCell id="ws5PbmoUy5AxE128pXAb-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" edge="1" parent="ws5PbmoUy5AxE128pXAb-114" source="ws5PbmoUy5AxE128pXAb-120" target="ws5PbmoUy5AxE128pXAb-118">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ws5PbmoUy5AxE128pXAb-120" value="VCS switching hardware / software&lt;div&gt;Headsets&lt;/div&gt;&lt;div&gt;Radio gateways&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-114">
-          <mxGeometry x="132" y="197" width="200" height="35" as="geometry" />
+        <mxCell id="ws5PbmoUy5AxE128pXAb-120" value="Airfield Lighting control and monitoring system&lt;div&gt;HMI for real-time toggling&lt;/div&gt;&lt;div&gt;Network Connection&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-114">
+          <mxGeometry x="132" y="205" width="200" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="ws5PbmoUy5AxE128pXAb-121" value="Priority rules&lt;div&gt;Radio phraseology&lt;/div&gt;&lt;div&gt;Local SOPs for Communications&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-114">
-          <mxGeometry x="142" width="180" height="50" as="geometry" />
+        <mxCell id="ws5PbmoUy5AxE128pXAb-121" value="Maintenance Schedules&lt;div&gt;Restricted Areas&lt;/div&gt;&lt;div&gt;Local Operation Procedures&lt;/div&gt;&lt;div&gt;Safety Constraints (e.g Stop bar usage rules)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-114">
+          <mxGeometry x="123" y="-52" width="218" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006658;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;endArrow=classic;fillColor=#21C0A5;" edge="1" parent="ws5PbmoUy5AxE128pXAb-114" source="ws5PbmoUy5AxE128pXAb-121" target="ws5PbmoUy5AxE128pXAb-118">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ws5PbmoUy5AxE128pXAb-123" value="Voice channel to pilot&lt;div&gt;Real time communication status to ATC&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-114">
-          <mxGeometry x="312" y="90" width="218" height="25" as="geometry" />
+        <mxCell id="ws5PbmoUy5AxE128pXAb-123" value="Activated / deactivated lighting systems&amp;nbsp;&lt;div&gt;Signage changes&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-114">
+          <mxGeometry x="349" y="106" width="218" height="25" as="geometry" />
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-125" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#006658;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;fillColor=#21C0A5;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.987;exitY=0.638;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ws5PbmoUy5AxE128pXAb-107" target="ws5PbmoUy5AxE128pXAb-118">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1276,7 +1276,7 @@
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-126" value="Commands from Controllers" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;" vertex="1" connectable="0" parent="ws5PbmoUy5AxE128pXAb-125">
           <mxGeometry x="0.0115" y="-3" relative="1" as="geometry">
-            <mxPoint x="36" as="offset" />
+            <mxPoint x="63" y="55" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-127" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#006658;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;fillColor=#21C0A5;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="ws5PbmoUy5AxE128pXAb-107" target="ws5PbmoUy5AxE128pXAb-76">
@@ -1284,14 +1284,14 @@
             <mxPoint x="1690" y="540" as="sourcePoint" />
             <mxPoint x="1740" y="490" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2070" y="359" />
-              <mxPoint x="2070" y="1002" />
+              <mxPoint x="2100" y="359" />
+              <mxPoint x="2100" y="1002" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-128" value="Warnings or Alerts" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;" vertex="1" connectable="0" parent="ws5PbmoUy5AxE128pXAb-127">
           <mxGeometry x="-0.0735" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="149" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-130" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#006658;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;fillColor=#21C0A5;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="ws5PbmoUy5AxE128pXAb-97" target="ws5PbmoUy5AxE128pXAb-87">
@@ -1309,26 +1309,115 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1570" y="860" as="sourcePoint" />
             <mxPoint x="1620" y="810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1910" y="922" />
+              <mxPoint x="1910" y="1042" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ws5PbmoUy5AxE128pXAb-135" value="Potential Conflicts or Incursions" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;" vertex="1" connectable="0" parent="ws5PbmoUy5AxE128pXAb-134">
+        <mxCell id="ws5PbmoUy5AxE128pXAb-135" value="Logs and Record of Potential Conflicts or Incursions" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;" vertex="1" connectable="0" parent="ws5PbmoUy5AxE128pXAb-134">
           <mxGeometry x="-0.5742" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ws5PbmoUy5AxE128pXAb-136" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#006658;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;fillColor=#21C0A5;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="ws5PbmoUy5AxE128pXAb-97" target="ws5PbmoUy5AxE128pXAb-118">
+        <mxCell id="ws5PbmoUy5AxE128pXAb-136" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#006658;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;fillColor=#21C0A5;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="ws5PbmoUy5AxE128pXAb-118">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1680" y="750" as="sourcePoint" />
+            <mxPoint x="1162" y="840" as="sourcePoint" />
             <mxPoint x="1730" y="700" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="1190" y="840" />
+              <mxPoint x="1190" y="712" />
               <mxPoint x="2200" y="712" />
               <mxPoint x="2200" y="553" />
               <mxPoint x="2252" y="553" />
+              <mxPoint x="2252" y="552" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-137" value="Flight Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;" vertex="1" connectable="0" parent="ws5PbmoUy5AxE128pXAb-136">
           <mxGeometry x="0.8226" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ws5PbmoUy5AxE128pXAb-138" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#006658;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;fillColor=#21C0A5;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="ws5PbmoUy5AxE128pXAb-118" target="ws5PbmoUy5AxE128pXAb-107">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1960" y="330" as="sourcePoint" />
+            <mxPoint x="2010" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2500" y="512" />
+              <mxPoint x="2500" y="160" />
+              <mxPoint x="1770" y="160" />
+              <mxPoint x="1770" y="319" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ws5PbmoUy5AxE128pXAb-139" value="Updated Airfield Status" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;" vertex="1" connectable="0" parent="ws5PbmoUy5AxE128pXAb-138">
+          <mxGeometry x="0.1319" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ws5PbmoUy5AxE128pXAb-140" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#006658;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;fillColor=#21C0A5;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="ws5PbmoUy5AxE128pXAb-118" target="ws5PbmoUy5AxE128pXAb-76">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1960" y="750" as="sourcePoint" />
+            <mxPoint x="2010" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2460" y="552" />
+              <mxPoint x="2460" y="840" />
+              <mxPoint x="2100" y="840" />
+              <mxPoint x="2100" y="1002" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ws5PbmoUy5AxE128pXAb-141" value="Logs of Changes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;" vertex="1" connectable="0" parent="ws5PbmoUy5AxE128pXAb-140">
+          <mxGeometry x="-0.085" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ws5PbmoUy5AxE128pXAb-142" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#006658;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;fillColor=#21C0A5;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="ws5PbmoUy5AxE128pXAb-56" target="ws5PbmoUy5AxE128pXAb-76">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1490" y="1170" as="sourcePoint" />
+            <mxPoint x="1540" y="1120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1910" y="1222" />
+              <mxPoint x="1910" y="1042" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ws5PbmoUy5AxE128pXAb-143" value="Voice Logs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;" vertex="1" connectable="0" parent="ws5PbmoUy5AxE128pXAb-142">
+          <mxGeometry x="-0.2406" y="-2" relative="1" as="geometry">
+            <mxPoint x="-49" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ws5PbmoUy5AxE128pXAb-144" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#006658;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;fillColor=#21C0A5;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="ws5PbmoUy5AxE128pXAb-66" target="ws5PbmoUy5AxE128pXAb-76">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1490" y="1170" as="sourcePoint" />
+            <mxPoint x="1540" y="1120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1910" y="1482" />
+              <mxPoint x="1910" y="1042" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ws5PbmoUy5AxE128pXAb-145" value="Voice Logs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;" vertex="1" connectable="0" parent="ws5PbmoUy5AxE128pXAb-144">
+          <mxGeometry x="0.2739" y="-2" relative="1" as="geometry">
+            <mxPoint x="-12" y="146" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ws5PbmoUy5AxE128pXAb-146" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#006658;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;fillColor=#21C0A5;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.999;exitY=0.183;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ws5PbmoUy5AxE128pXAb-97" target="ws5PbmoUy5AxE128pXAb-76">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1162" y="840" as="sourcePoint" />
+            <mxPoint x="1540" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1162" y="840" />
+              <mxPoint x="1190" y="840" />
+              <mxPoint x="1190" y="712" />
+              <mxPoint x="1990" y="712" />
+              <mxPoint x="1990" y="1002" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ws5PbmoUy5AxE128pXAb-147" value="Flight Data Logs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;" vertex="1" connectable="0" parent="ws5PbmoUy5AxE128pXAb-146">
+          <mxGeometry x="0.5831" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
