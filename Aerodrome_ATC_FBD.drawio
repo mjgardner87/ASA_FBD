@@ -1550,7 +1550,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J4wvd6WjQGUIcEuq9tTq-25" value="" style="group;labelBackgroundColor=none;fontColor=#143642;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="720.0000000000005" y="640" width="590" height="290" as="geometry" />
+          <mxGeometry x="750.0000000000005" y="660" width="590" height="290" as="geometry" />
         </mxCell>
         <mxCell id="J4wvd6WjQGUIcEuq9tTq-26" value="" style="group;labelBackgroundColor=none;fontColor=#143642;" vertex="1" connectable="0" parent="J4wvd6WjQGUIcEuq9tTq-25">
           <mxGeometry x="110" width="480" height="290" as="geometry" />
