@@ -838,6 +838,9 @@
         <mxCell id="Hfwwka4k-Ry6hG92FUAx-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006658;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;endArrow=classic;fillColor=#21C0A5;" edge="1" parent="Hfwwka4k-Ry6hG92FUAx-2" source="Hfwwka4k-Ry6hG92FUAx-6" target="Hfwwka4k-Ry6hG92FUAx-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="FFFHxnzinT3vWmadP5vH-2" value="GF4-07&lt;br&gt;GF4-05" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Hfwwka4k-Ry6hG92FUAx-2">
+          <mxGeometry x="202" y="140" width="58" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="Hfwwka4k-Ry6hG92FUAx-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" edge="1" parent="Hfwwka4k-Ry6hG92FUAx-1" target="Hfwwka4k-Ry6hG92FUAx-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="80" y="120" as="sourcePoint" />
@@ -869,6 +872,9 @@
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-8" value="Video Stream to Controller HMIs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-2">
           <mxGeometry x="270" y="116" width="210" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="FFFHxnzinT3vWmadP5vH-3" value="GF4-07&lt;br&gt;GF4-05" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-2">
+          <mxGeometry x="201" y="141" width="58" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#006658;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;fillColor=#21C0A5;" edge="1" parent="ws5PbmoUy5AxE128pXAb-1" source="ws5PbmoUy5AxE128pXAb-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1005,6 +1011,9 @@
         <mxCell id="ws5PbmoUy5AxE128pXAb-42" value="Light signals for aircraft" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-51">
           <mxGeometry x="312" y="90" width="118" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="FFFHxnzinT3vWmadP5vH-1" value="GF4-09&lt;div&gt;GF4-10&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-51">
+          <mxGeometry x="254" y="140" width="58" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-52" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1310.0000000000005" y="1080" width="532" height="232" as="geometry" />
         </mxCell>
@@ -1038,8 +1047,11 @@
         <mxCell id="ws5PbmoUy5AxE128pXAb-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006658;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;endArrow=classic;fillColor=#21C0A5;" edge="1" parent="ws5PbmoUy5AxE128pXAb-52" source="ws5PbmoUy5AxE128pXAb-59" target="ws5PbmoUy5AxE128pXAb-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ws5PbmoUy5AxE128pXAb-61" value="Voice channel to pilot&lt;div&gt;Real time communication status to ATC&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-52">
-          <mxGeometry x="312" y="90" width="218" height="25" as="geometry" />
+        <mxCell id="ws5PbmoUy5AxE128pXAb-61" value="Voice channel to pilot&lt;div&gt;Data Flow to Radios&lt;br&gt;&lt;div&gt;Real time communication status to ATC&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-52">
+          <mxGeometry x="312" y="80" width="218" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ws5PbmoUy5AxE128pXAb-154" value="&lt;div&gt;GF4-01&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-52">
+          <mxGeometry x="254" y="140" width="58" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-62" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1310.0000000000005" y="1380" width="532" height="232" as="geometry" />
@@ -1077,6 +1089,9 @@
         <mxCell id="ws5PbmoUy5AxE128pXAb-71" value="&lt;div&gt;Established G/G voice communications&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-62">
           <mxGeometry x="314" y="122" width="218" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="ws5PbmoUy5AxE128pXAb-153" value="&lt;div&gt;GF4-02&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-62">
+          <mxGeometry x="254" y="140" width="58" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-72" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1990.0000000000005" y="900" width="550" height="232" as="geometry" />
         </mxCell>
@@ -1112,6 +1127,9 @@
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-81" value="Archived Recordings&lt;div&gt;Playback for supervisors / investigators etc&lt;/div&gt;&lt;div&gt;Audit Logs&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-72">
           <mxGeometry x="312" y="70" width="238" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ws5PbmoUy5AxE128pXAb-148" value="&lt;div&gt;GF4-08&lt;/div&gt;GF4-11" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-72">
+          <mxGeometry x="256" y="140" width="58" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-83" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1310.0000000000005" y="780" width="532" height="232" as="geometry" />
@@ -1149,6 +1167,9 @@
         <mxCell id="ws5PbmoUy5AxE128pXAb-92" value="Real-time track data with relevant metadata&lt;div&gt;Shared situational awareness&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-83">
           <mxGeometry x="308" y="84" width="218" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="ws5PbmoUy5AxE128pXAb-150" value="GF4-04&lt;div&gt;GF4-05&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-83">
+          <mxGeometry x="255" y="140" width="58" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-93" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="850.0000000000005" y="740" width="532" height="232" as="geometry" />
         </mxCell>
@@ -1185,6 +1206,9 @@
         <mxCell id="ws5PbmoUy5AxE128pXAb-102" value="Updated Flight Status&lt;div&gt;Electronic Flight data strips (or equivalent) for HMI&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-93">
           <mxGeometry x="340" y="82" width="178" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="ws5PbmoUy5AxE128pXAb-152" value="GF4-06&lt;div&gt;GF4-10&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-93">
+          <mxGeometry x="254" y="140" width="58" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-103" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1660.0000000000005" y="217" width="532" height="232" as="geometry" />
         </mxCell>
@@ -1220,6 +1244,9 @@
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-112" value="Consolidated Aerodrome Dashboard on ATC HMI&lt;div&gt;Warnings or Alerts&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-103">
           <mxGeometry x="312" y="90" width="218" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ws5PbmoUy5AxE128pXAb-151" value="GF4-08&lt;br&gt;GF4-09" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-103">
+          <mxGeometry x="254" y="143" width="58" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#006658;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;fillColor=#21C0A5;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="ws5PbmoUy5AxE128pXAb-19" target="ws5PbmoUy5AxE128pXAb-107">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1267,6 +1294,9 @@
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-123" value="Activated / deactivated lighting systems&amp;nbsp;&lt;div&gt;Signage changes&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-114">
           <mxGeometry x="349" y="106" width="218" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ws5PbmoUy5AxE128pXAb-149" value="GF4-09&lt;div&gt;GF4-10&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ws5PbmoUy5AxE128pXAb-114">
+          <mxGeometry x="254" y="140" width="58" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ws5PbmoUy5AxE128pXAb-125" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#006658;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#5C5C5C;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;fillColor=#21C0A5;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.987;exitY=0.638;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ws5PbmoUy5AxE128pXAb-107" target="ws5PbmoUy5AxE128pXAb-118">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
