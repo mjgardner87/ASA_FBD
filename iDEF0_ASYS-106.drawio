@@ -1,9 +1,47 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.10">
   <diagram name="Page-1" id="mhuVICRI-4RMuyPOTQWO">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YCx-nxro3G4o6VL55sHo-1" value="" style="group;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="210.00000000000045" y="160" width="590" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="YCx-nxro3G4o6VL55sHo-2" value="" style="group;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" connectable="0" parent="YCx-nxro3G4o6VL55sHo-1">
+          <mxGeometry x="110" width="480" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="YCx-nxro3G4o6VL55sHo-3" value="Manage Aerodrome Flight Data&lt;br&gt;(GF-04-06)" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="YCx-nxro3G4o6VL55sHo-2">
+          <mxGeometry x="100" y="80" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YCx-nxro3G4o6VL55sHo-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=default;fillColor=#A8DADC;labelBackgroundColor=none;" edge="1" parent="YCx-nxro3G4o6VL55sHo-2" source="YCx-nxro3G4o6VL55sHo-5" target="YCx-nxro3G4o6VL55sHo-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YCx-nxro3G4o6VL55sHo-5" value="Flight Data Processing System&lt;div&gt;Controller Displays&lt;/div&gt;&lt;div&gt;Personnel updating and cross-checking data&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="YCx-nxro3G4o6VL55sHo-2">
+          <mxGeometry x="80" y="230" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YCx-nxro3G4o6VL55sHo-6" value="Flight data handling procedures&lt;br&gt;Local SOPs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="YCx-nxro3G4o6VL55sHo-2">
+          <mxGeometry x="90" y="-30" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YCx-nxro3G4o6VL55sHo-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;endArrow=classic;fillColor=#A8DADC;" edge="1" parent="YCx-nxro3G4o6VL55sHo-2" source="YCx-nxro3G4o6VL55sHo-6" target="YCx-nxro3G4o6VL55sHo-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YCx-nxro3G4o6VL55sHo-8" value="Updated Flight strips for controllers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="YCx-nxro3G4o6VL55sHo-2">
+          <mxGeometry x="270" y="111" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YCx-nxro3G4o6VL55sHo-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#457B9D;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fillColor=#A8DADC;" edge="1" parent="YCx-nxro3G4o6VL55sHo-1" source="YCx-nxro3G4o6VL55sHo-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="280" as="sourcePoint" />
+            <mxPoint x="540" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCx-nxro3G4o6VL55sHo-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=default;fillColor=#A8DADC;labelBackgroundColor=none;" edge="1" parent="YCx-nxro3G4o6VL55sHo-1" target="YCx-nxro3G4o6VL55sHo-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCx-nxro3G4o6VL55sHo-11" value="Flight Plans&lt;br&gt;Approach / Departure information from external approach units" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="YCx-nxro3G4o6VL55sHo-1">
+          <mxGeometry x="-40" y="50" width="210" height="77" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
