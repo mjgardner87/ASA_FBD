@@ -209,7 +209,7 @@
         <mxCell id="YCx-nxro3G4o6VL55sHo-62" value="ATC Personnel&lt;br&gt;Surveillance data displays&lt;br&gt;Communication tools&lt;br&gt;Published procedures" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="YCx-nxro3G4o6VL55sHo-59">
           <mxGeometry x="90" y="220" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YCx-nxro3G4o6VL55sHo-69" value="Regulatory separation minima&lt;br&gt;Airspace classification rules&lt;br&gt;Controller operational guidelines&lt;br&gt;Aerodrome constraints" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="YCx-nxro3G4o6VL55sHo-59">
+        <mxCell id="YCx-nxro3G4o6VL55sHo-69" value="Regulatory separation minima&lt;br&gt;Airspace classification rules&lt;br&gt;Controller operational guidelines (Ref 4.2)&lt;br&gt;Aerodrome constraints" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="YCx-nxro3G4o6VL55sHo-59">
           <mxGeometry x="74.99999999999955" y="-40" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YCx-nxro3G4o6VL55sHo-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;endArrow=classic;fillColor=#A8DADC;" edge="1" parent="YCx-nxro3G4o6VL55sHo-59" source="YCx-nxro3G4o6VL55sHo-69">
@@ -270,7 +270,7 @@
         <mxCell id="YCx-nxro3G4o6VL55sHo-78" value="Takeoff/landing clearances, taxi instructions&lt;br&gt;Departure/arrival sequencing and slot times&lt;br&gt;Ground movement coordination plans" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="YCx-nxro3G4o6VL55sHo-74">
           <mxGeometry x="280" y="130" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YCx-nxro3G4o6VL55sHo-79" value="Capacity constraints&lt;br&gt;Noise abatement or local environmental procedures&lt;br&gt;Aerodrome safety procedures" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="YCx-nxro3G4o6VL55sHo-74">
+        <mxCell id="YCx-nxro3G4o6VL55sHo-79" value="Capacity constraints&lt;br&gt;Noise abatement or local environmental procedures&lt;br&gt;Aerodrome Operational procedures (Ref 4.2)&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="YCx-nxro3G4o6VL55sHo-74">
           <mxGeometry x="30" y="-40" width="320" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YCx-nxro3G4o6VL55sHo-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;endArrow=classic;fillColor=#A8DADC;" edge="1" parent="YCx-nxro3G4o6VL55sHo-74" source="YCx-nxro3G4o6VL55sHo-79">
@@ -481,21 +481,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YCx-nxro3G4o6VL55sHo-128" value="4.2 Develop and Maintain Operational Procedures" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="270.00000000000045" y="1130" width="160" height="80" as="geometry" />
+          <mxGeometry x="260.00000000000045" y="1130" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YCx-nxro3G4o6VL55sHo-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=default;fillColor=#A8DADC;labelBackgroundColor=none;" edge="1" parent="1" source="YCx-nxro3G4o6VL55sHo-130" target="YCx-nxro3G4o6VL55sHo-128">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YCx-nxro3G4o6VL55sHo-130" value="Procedure developers&lt;br&gt;Data Management Tools (GIS/charting software)&lt;br&gt;Regulatory oversight" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="250.00000000000045" y="1270" width="200" height="60" as="geometry" />
+          <mxGeometry x="240.00000000000045" y="1270" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YCx-nxro3G4o6VL55sHo-131" value="Aeronautical Charts, approach plates, procedures etc&lt;br&gt;Revised/new Navigation/Operational publications&lt;br&gt;Updates to NOTAMs etc" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="502" y="1150" width="328" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YCx-nxro3G4o6VL55sHo-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;endArrow=classic;fillColor=#A8DADC;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350.00000000000045" y="1060" as="sourcePoint" />
-            <mxPoint x="350" y="1130" as="targetPoint" />
+            <mxPoint x="340.00000000000045" y="1060" as="sourcePoint" />
+            <mxPoint x="340" y="1130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YCx-nxro3G4o6VL55sHo-133" value="" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" connectable="0" parent="YCx-nxro3G4o6VL55sHo-132">
@@ -505,17 +505,17 @@
         </mxCell>
         <mxCell id="YCx-nxro3G4o6VL55sHo-134" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YCx-nxro3G4o6VL55sHo-128">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="1150" as="sourcePoint" />
-            <mxPoint x="530" y="1170" as="targetPoint" />
+            <mxPoint x="280" y="1150" as="sourcePoint" />
+            <mxPoint x="520" y="1170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YCx-nxro3G4o6VL55sHo-135" value="Periodic review cycles&lt;br&gt;Quality assurance processes&lt;br&gt;Safety Management System Guidelines" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="220.00000000000045" y="1010" width="250" height="40" as="geometry" />
+          <mxGeometry x="210.00000000000045" y="1010" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YCx-nxro3G4o6VL55sHo-136" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="YCx-nxro3G4o6VL55sHo-128">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="1170" as="sourcePoint" />
-            <mxPoint x="770" y="1300" as="targetPoint" />
+            <mxPoint x="170" y="1170" as="sourcePoint" />
+            <mxPoint x="760" y="1300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YCx-nxro3G4o6VL55sHo-137" value="Regulatory Requirements&lt;br&gt;Terrain/obstacle data&lt;br&gt;Airspace Structure&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="1">
@@ -551,7 +551,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YCx-nxro3G4o6VL55sHo-143" value="Procedures and Publications" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" connectable="0" parent="YCx-nxro3G4o6VL55sHo-141">
+        <mxCell id="YCx-nxro3G4o6VL55sHo-143" value="Charting and Procedural Updates" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" connectable="0" parent="YCx-nxro3G4o6VL55sHo-141">
           <mxGeometry x="0.2615" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -565,35 +565,20 @@
         <mxCell id="YCx-nxro3G4o6VL55sHo-144" value="Airspace Design Data&lt;br&gt;Operational Environment Information&lt;br&gt;Regulatory Navigation Standards" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="255" y="1440" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YCx-nxro3G4o6VL55sHo-145" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="YCx-nxro3G4o6VL55sHo-128" target="YCx-nxro3G4o6VL55sHo-60">
+        <mxCell id="YCx-nxro3G4o6VL55sHo-150" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="YCx-nxro3G4o6VL55sHo-121" target="YCx-nxro3G4o6VL55sHo-75">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="1100" as="sourcePoint" />
-            <mxPoint x="710" y="1050" as="targetPoint" />
+            <mxPoint x="790" y="1090" as="sourcePoint" />
+            <mxPoint x="840" y="1040" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="520" y="1150" />
-              <mxPoint x="520" y="794" />
+              <mxPoint x="770" y="1440" />
+              <mxPoint x="770" y="1290" />
+              <mxPoint x="1150" y="1290" />
+              <mxPoint x="1150" y="930" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YCx-nxro3G4o6VL55sHo-146" value="ATC Procedures" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" connectable="0" parent="YCx-nxro3G4o6VL55sHo-145">
-          <mxGeometry x="-0.0943" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YCx-nxro3G4o6VL55sHo-147" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="YCx-nxro3G4o6VL55sHo-128" target="YCx-nxro3G4o6VL55sHo-75">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="1160" as="sourcePoint" />
-            <mxPoint x="630" y="804" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="520" y="1150" />
-              <mxPoint x="520" y="1070" />
-              <mxPoint x="1170" y="1070" />
-              <mxPoint x="1170" y="930" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YCx-nxro3G4o6VL55sHo-148" value="ATC Procedures" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" connectable="0" parent="YCx-nxro3G4o6VL55sHo-147">
-          <mxGeometry x="-0.0943" y="-2" relative="1" as="geometry">
+        <mxCell id="YCx-nxro3G4o6VL55sHo-151" value="Navaid Status" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" connectable="0" parent="YCx-nxro3G4o6VL55sHo-150">
+          <mxGeometry x="-0.0742" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
